@@ -1,3 +1,4 @@
+puts $LOAD_PATH
 require "pig_latin"
 
 describe "#translate" do
